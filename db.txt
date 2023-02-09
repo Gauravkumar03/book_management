@@ -1,0 +1,4 @@
+Database name - book_management.
+No of tables in the database - 1.
+Table's name - books.
+Create table sql query - CREATE TABLE `books` (`s_no` INT(100) NOT NULL AUTO_INCREMENT , `Name` VARCHAR(100) NOT NULL , `Author` VARCHAR(100) NOT NULL , `Price` INT(50) NOT NULL , PRIMARY KEY (`s_no`));
